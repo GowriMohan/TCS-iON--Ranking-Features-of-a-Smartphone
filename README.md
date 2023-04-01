@@ -8,7 +8,7 @@ The dataset has 2000 rows and 21 features of a smart phone. To proceed with this
 
 - Checked for missing values in the dataset and handled them appropriately.
 - Explored the dataset using statistical analysis and visualization to understand the distribution of the features and their relationships with each other.
-- Identifed the most important features using feature importance scores from machine learning models (or we could use other feature selection techniques such as correlation analysis, or mutual information).
+- Identified the most important features using feature importance scores from machine learning models (or we could use other feature selection techniques such as correlation analysis, or mutual information).
 - Ranked the features based on their importance scores.
 - Implemented a user interface to collect feature requests from users and update the feature ranking based on the user feedback.
 
