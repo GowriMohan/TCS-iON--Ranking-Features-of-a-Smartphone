@@ -2,7 +2,7 @@
 Rank Features of a Smartphone - Build a Python Application to Classify and Rank Dataset 
 
 
-The objective of this project is to build a python application that classifies the price range category to which the smartphone falls and also to rank the features of a smartphone.
+The objective of this project is to build a python application that classifies the price range category to which the smartphone falls and also to rank the features of a smartphone. This is a multi-class Classification problem.
 
 The dataset has 2000 rows and 21 features of a smart phone. To proceed with this dataset for the given problem of ranking smartphone features based on user requests, I followed these steps:
 
